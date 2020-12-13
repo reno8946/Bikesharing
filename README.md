@@ -42,13 +42,14 @@ On Saturdays and Sundays the bikes are used throughout the day.
 
 It is also interesting to observe that on Thursday, in spite of being a working day, the bike usage during hours of 5 - 7PM is higher.
 
-![](images/trips_by_weekday_for_each_hour.png)
+![image](https://user-images.githubusercontent.com/70483866/102006038-523e7600-3ce3-11eb-9fac-8b4569622e79.png)
 
 ### 2.4. Bike Checkout Times
 The following charts show the bike check out times for Overall users and broken down by gender.
-![](images/checkout_times_for_user.png)
 
-![](images/checkout_times_by_gender.png)
+![image](https://user-images.githubusercontent.com/70483866/102006048-7dc16080-3ce3-11eb-9fbb-49926f27a3b1.png)
+
+![image](https://user-images.githubusercontent.com/70483866/102006054-9af62f00-3ce3-11eb-8544-b39ef5f2d55f.png)
 
 The first chart show that typically the bikes are checked out for 4-6 hours. 
 
@@ -56,13 +57,13 @@ From the second chart, it can be determined that both male and female users have
 
 ### 2.5. Bike usage by Gender by Weekday
 The following heat map confirms the fact the men and women have same pattern of bike usage through out the week.
-![](images/trips_by_gender_weekday_per_hour.png)
 
+![image](https://user-images.githubusercontent.com/70483866/102006069-c11bcf00-3ce3-11eb-908a-116886d12d02.png)
 
 ### 2.6. Bike usage by User type by Weekday
 The following heatmap depicts the bike usage throughout the week for each user type broken down by gender.
 
 Based on the chart below, one can determine that male subscribers are the largest users of the bikes. For Customer user type, there is not much difference in the usage pattern between men and women.
 
-![](images/user_trips_by_gender_by_weekday.png)
+![image](https://user-images.githubusercontent.com/70483866/102006083-e3155180-3ce3-11eb-9788-53931a7b264a.png)
 
