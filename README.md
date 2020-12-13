@@ -68,3 +68,14 @@ Based on the chart below, one can determine that male subscribers are the larges
 
 ![image](https://user-images.githubusercontent.com/70483866/102006083-e3155180-3ce3-11eb-9788-53931a7b264a.png)
 
+## Summary
+
+The main points that can be derived from the above analysis are:
+1. Men tend to use the bikesharing service much more than women.
+2. It's important to focus on getting users to convert to subscribers as they tend to most often utilize the bikes a lot more than customers.
+3. The bike usage is highest during weekends and during the commute to work during rush hours.
+
+Overall, the August data on the bike sharing service in NYC gave some insights into how the service is used. However, it would be wise to investigate a few more aspects of this service to strengthen the proposal to investors in Des Moines.
+1. To make the bike sharing service a viable business through out the year and because NYC and Des Moines experience true winters with snow and bitter cold temperatures, it is important to look into data during the winter months of December and January for example to see how ridership changes during when it becomes cold out.
+2. Also, we know that New York city is a very populous city with high traffic. So it makes sense that users in NYC use bikes to get from one place to other. To replicate the same success in Des Moines, it would be wise to perform data analysis on Des Moines, IA population density and traffic patterns to see if it proportionate with that of NYC.
+
