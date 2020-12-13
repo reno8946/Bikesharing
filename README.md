@@ -56,7 +56,8 @@ The first chart show that typically the bikes are checked out for 4-6 hours.
 From the second chart, it can be determined that both male and female users have similar checkout patterns, although males utilize bikes in much greater numbers in comparison to females.
 
 ### 2.5. Bike usage by Gender by Weekday
-The following heat map confirms the fact the men and women have same pattern of bike usage through out the week.
+The following heat map confirms the fact the men and women have similar patterns of bike usage through out the week, although males utilize bikes in much greater numbers in comparison to females.
+.
 
 ![image](https://user-images.githubusercontent.com/70483866/102006069-c11bcf00-3ce3-11eb-908a-116886d12d02.png)
 
