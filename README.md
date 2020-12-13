@@ -40,7 +40,7 @@ Looking at the hourly data for each day of week further confirms that 5-7 PM pea
 
 On Saturdays and Sundays the bikes are used throughout the day. 
 
-It is also interesting to observe that on Thursday, in spite of being a working day, the bike usage during hours of 5 - 7PM is higher.
+It is also interesting to observe that on Monday, Tuesday, and Thursday, in spite of being work days, the bike usage during hours of 5 - 7PM is higher.
 
 ![image](https://user-images.githubusercontent.com/70483866/102006038-523e7600-3ce3-11eb-9fac-8b4569622e79.png)
 
