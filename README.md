@@ -20,3 +20,10 @@ The tableau dashboard can be found at:
 
 [Link to the User Bike Data Dashboard](https://public.tableau.com/profile/reno.stephens#!/vizhome/UserBikeDataDashboard/UserBikeDataDashboard)
 
+### 2.1. Bike Utilization:
+We start the analysis by looking at bike utilization.
+
+From the data, it looks like bike utilization by bikeID in NYC was quite random and didn't follow any consistent pattern. 
+
+![image](https://user-images.githubusercontent.com/70483866/102005793-5d90a200-3ce1-11eb-8c87-264ff2339137.png)
+
