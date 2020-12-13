@@ -27,3 +27,10 @@ From the data, it looks like bike utilization by bikeID in NYC was quite random 
 
 ![image](https://user-images.githubusercontent.com/70483866/102005793-5d90a200-3ce1-11eb-8c87-264ff2339137.png)
 
+### 2.2. Average Trip Duration:
+Next, the analysis looked into at average trip duration.
+
+According to the data, there was a huge spike in average trip duration among people born in the very early 1890s, however a consistent increase in average trip duration started to take place from people born in the 1930s and onwards.
+
+![image](https://user-images.githubusercontent.com/70483866/102005908-34bcdc80-3ce2-11eb-845a-70867ef59bce.png)
+
